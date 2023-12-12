@@ -3,4 +3,4 @@ solver.py: Generates a solution given a task list. The starter code handles inpu
 verifier.py: Verifies and scores a proposed solution.
 questiongenerator.py: Generates a new test case. Useful if you want to test your code further.
 
-running scripts with no arguments gives info on expected input
+Running scripts with no arguments gives info on expected input
